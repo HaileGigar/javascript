@@ -1,0 +1,17 @@
+There are 3 types of functions in javascript: regular functions +  function expressions and the fat arrow functions.
+
+function config(cpu, ram, speed){
+         console.log(`this ${cpu} is an hp computer with ram ${ram} gb and an average speed of ${speed}.`
+}
+
+
+let config=function(cpu, ram, speed){
+         console.log(`this ${cpu} is an hp computer with ram ${ram} gb and an average speed of ${speed}.`
+};
+
+
+let config=(cpu, ram, speed)=>{
+         console.log(`this ${cpu} is an hp computer with ram ${ram} gb and an average speed of ${speed}.`
+}
+
+Another most important point  to bear in mind is that even classes injavascript are functions.
