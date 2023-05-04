@@ -17,3 +17,5 @@ let config=(cpu, ram, speed)=>{
 Another most important point  to bear in mind is that even classes injavascript are functions.
 
 both functions and classes(functions) are objects in javascript- an object means something that has properties and methods to do some activities on the properties (attributes and values)
+
+One of the most important javascript front-end library is React.
