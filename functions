@@ -21,3 +21,4 @@ both functions and classes(functions) are objects in javascript- an object means
 One of the most important javascript front-end library is React.
 
 never forget Django and Bootstrap though!
+we can perform Django activities in the aws lambda function while the bootstrap front-end activity is more of application deployment which may be done at elaaaastic beanstalk.
